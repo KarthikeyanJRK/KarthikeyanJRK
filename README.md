@@ -6,7 +6,7 @@ I’m a data-focused problem solver with a strong interest in **Data Analytics, 
 
 My toolkit includes **Python, SQL, Power BI, Tableau, and Excel**, along with libraries like **Pandas, NumPy, Matplotlib, and Scikit-Learn**. I like working end-to-end: from data cleaning and exploratory data analysis to building predictive models and presenting results using dashboards and reports.
 
-I’ve completed graduate-level programs in **Applied AI Solutions Development** and **Cloud Computing Technologies** in Canada, where I worked on projects involving analytics, AI, and cloud-based architectures. I’m especially interested in roles such as **Data Analyst, Junior Data Scientist, or Machine Learning Engineer**, where I can apply data-driven thinking to solve real problems.
+I’ve completed ontario college graduate certificate programs in **Applied AI Solutions Development** and **Cloud Computing Technologies** at George Brown College, Canada, where I worked on projects involving analytics, AI, and cloud-based architectures. I’m especially interested in roles such as **Data Analyst, Data Scientist, or Machine Learning Engineer**, where I can apply data-driven thinking to solve real problems.
 
 ---
 
@@ -39,7 +39,7 @@ I’ve completed graduate-level programs in **Applied AI Solutions Development**
 **QA Engineer – Virtusa**  
 - Tested web applications through manual, functional, and regression testing.  
 - Wrote and executed test cases, raised defects, and worked closely with developers.  
-- Used **Selenium WebDriver, Java, TestNG, and Python** to automate test scenarios.  
+- Used **Selenium WebDriver, Java, and TestNG** to automate test scenarios.  
 - Performed API checks using **Postman** and basic SQL validation.  
 
 ---
